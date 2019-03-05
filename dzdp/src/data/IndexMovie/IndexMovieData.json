@@ -1,0 +1,382 @@
+{
+  "cinemaShop": [
+    {
+      "name": "万达影城(龙城铭园店)",
+      "away": "0.7km",
+      "price": "24.5",
+      "tui": "",
+      "gai": "",
+      "xiao": "xiao",
+      "hui": "hui",
+      "du": "du",
+      "lin": "",
+      "discount": "discount",
+      "discont": "一吻定情特惠",
+      "cu": "",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "欢乐梦工场影城(西安店)",
+      "away": "1.8km",
+      "price": "39.4",
+      "tui": "",
+      "gai": "",
+      "xiao": "xiao",
+      "hui": "hui",
+      "du": "du",
+      "lin": "",
+      "discount": "discount",
+      "discont": "一吻定情特惠",
+      "cu": "",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "奥斯卡中国巨幕国际影城(唐延路店)",
+      "away": "2.1km",
+      "price": "39.9",
+      "tui": "",
+      "gai": "gai",
+      "xiao": "",
+      "hui": "hui",
+      "du": "du",
+      "lin": "lin",
+      "discount": "discount",
+      "discont": "一吻定情特惠",
+      "cu": "cu",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "大地影院(高科尚都店)",
+      "away": "2.7km",
+      "price": "33.9",
+      "tui": "",
+      "gai": "",
+      "xiao": "xiao",
+      "hui": "hui",
+      "du": "",
+      "lin": "",
+      "discount": "discount",
+      "discont": "一吻定情特惠",
+      "cu": "cu",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "华昕影院(卜蜂莲花店)",
+      "away": "2.5km",
+      "price": "34",
+      "tui": "",
+      "gai": "gai",
+      "xiao": "xiao",
+      "hui": "hui",
+      "du": "",
+      "lin": "",
+      "discount": "",
+      "discont": "一吻定情特惠",
+      "cu": "",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "万达影城(大寨路店)",
+      "away": "2.9km",
+      "price": "34.5",
+      "tui": "",
+      "gai": "",
+      "xiao": "xiao",
+      "hui": "hui",
+      "du": "",
+      "lin": "lin",
+      "discount": "discount",
+      "discont": "一吻定情特惠",
+      "cu": "",
+      "cucont": "观影套餐限量特惠",
+      "ka": "ka",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    },
+    {
+      "name": "华夏优加影城(电子正街店)",
+      "away": "4.6km",
+      "price": "39.9",
+      "tui": "",
+      "gai": "",
+      "xiao": "xiao",
+      "hui": "",
+      "du": "du",
+      "lin": "",
+      "discount": "",
+      "discont": "一吻定情特惠",
+      "cu": "",
+      "cucont": "观影套餐限量特惠",
+      "ka": "",
+      "kacont": "限时￥38.9促销开卡,首单更优惠"
+    }
+  ],
+  "movieSwiper":[
+    {"pic":"../../../static/img/movie/swiper1.jpg"},
+    {"pic":"../../../static/img/movie/swiper2.jpg"},
+    {"pic":"../../../static/img/movie/swiper3.jpg"},
+    {"pic":"../../../static/img/movie/swiper4.jpg"},
+    {"pic":"../../../static/img/movie/swiper5.jpg"},
+    {"pic":"../../../static/img/movie/swiper6.jpg"},
+    {"pic":"../../../static/img/movie/swiper7.jpg"}
+  ],
+  "marketSwiper":[
+    {"pic":"../../../static/img/movie/market1.jpg"},
+    {"pic":"../../../static/img/movie/market2.jpg"},
+    {"pic":"../../../static/img/movie/market3.jpg"},
+    {"pic":"../../../static/img/movie/market4.jpg"},
+    {"pic":"../../../static/img/movie/market5.jpg"}
+  ],
+  "demandData": [
+    {"pic": "../../../static/img/movie/demandFilm1.jpg","name": "我不是药神"},
+    {"pic": "../../../static/img/movie/demandFilm2.jpg","name": "厉害了,我的国"},
+    {"pic": "../../../static/img/movie/demandFilm3.jpg","name": "小萝莉的猴神大叔"},
+    {"pic": "../../../static/img/movie/demandFilm4.jpg","name": "海王"},
+    {"pic": "../../../static/img/movie/demandFilm5.jpg","name": "红海行动"},
+    {"pic": "../../../static/img/movie/demandFilm6.jpg","name": "嗝嗝老师"},
+    {"pic": "../../../static/img/movie/demandFilm7.jpg","name": "传奇的诞生"},
+    {"pic": "../../../static/img/movie/demandFilm8.jpg","name": "神秘巨星"},
+    {"pic": "../../../static/img/movie/demandFilm9.jpg","name": "苏丹"},
+    {"pic": "../../../static/img/movie/demandFilm10.jpg","name": "奇迹男孩"},
+    {"pic": "../../../static/img/movie/demandFilm11.jpg","name": "雪怪大冒险"},
+    {"pic": "../../../static/img/movie/demandFilm12.jpg","name": "西虹市首富"}
+  ],
+  "personal": [
+    {
+      "jpg": "../../../static/img/movie/personal1.jpg",
+      "name": "捌二0私人影院",
+      "add": "雁塔区科技路博悦小区2号楼1单元4楼402",
+      "price": "58.00",
+      "far": "1.8km"
+    },
+    {
+      "jpg": "../../../static/img/movie/personal2.jpg",
+      "name": "Holiday私人影院",
+      "add": "雁塔区丈八北路都市印象solo街区123号",
+      "price": "58.00",
+      "far": "1.8km"
+    },
+    {
+      "jpg": "../../../static/img/movie/personal3.jpg",
+      "name": "零点私人影咖",
+      "add": "雁塔区科技路西口博悦小区2号楼1单元",
+      "price": "58.00",
+      "far": "1.8km"
+    },
+    {
+      "jpg": "../../../static/img/movie/personal4.jpg",
+      "name": "聚光灯私人影院",
+      "add": "雁塔区高新路与科技四路西口交叉口西500米",
+      "price": "38.00",
+      "far": "2.5km"
+    },
+    {
+      "jpg": "../../../static/img/movie/personal5.jpg",
+      "name": "粉墨·私人影院(高新店)",
+      "add": "雁塔区高新路尚中心1511室",
+      "price": "78.00",
+      "far": "3.2km"
+    },
+    {
+      "jpg": "../../../static/img/movie/personal6.jpg",
+      "name": "那年4K电影街",
+      "add": "雁塔区科技二路280号(7天酒店斜对面)",
+      "price": "98.00",
+      "far": "3.5km"
+    }
+  ],
+  "filmList": [
+    {"pic": "../../../static/img/movie/hot1.jpg","name": "流浪地球"},
+    {"pic": "../../../static/img/movie/hot2.jpg","name": "疯狂的外星人"},
+    {"pic": "../../../static/img/movie/hot3.jpg","name": "飞驰人生"},
+    {"pic": "../../../static/img/movie/hot4.jpg","name": "一吻定情"},
+    {"pic": "../../../static/img/movie/hot5.jpg","name": "熊出没:原始时代"},
+    {"pic": "../../../static/img/movie/hot6.jpg","name": "新喜剧之王"},
+    {"pic": "../../../static/img/movie/hot7.jpg","name": "阿丽塔:战斗天使"},
+    {"pic": "../../../static/img/movie/hot8.jpg","name": "今夜在浪漫剧场"},
+    {"pic": "../../../static/img/movie/hot9.jpg","name": "神探蒲松龄"},
+    {"pic": "../../../static/img/movie/hot11.jpg","name": "驯龙高手3"},
+    {"pic": "../../../static/img/movie/hot12.jpg","name": "小猪佩奇过大年"},
+    {"pic": "../../../static/img/movie/hot13.jpg","name": "廉政风云"}
+  ],
+  "marketList": [
+    {"pic": "../../../static/img/movie/year1.jpg","name": "手办"},
+    {"pic": "../../../static/img/movie/year2.jpg","name": "3C配件"},
+    {"pic": "../../../static/img/movie/year3.jpg","name": "生活"},
+    {"pic": "../../../static/img/movie/year4.jpg","name": "服饰"},
+    {"pic": "../../../static/img/movie/year5.jpg","name": "电影原著"},
+    {"pic": "../../../static/img/movie/year6.jpg","name": "漫威"},
+    {"pic": "../../../static/img/movie/year7.jpg","name": "变形金刚"},
+    {"pic": "../../../static/img/movie/year8.jpg","name": "正义联盟"},
+    {"pic": "../../../static/img/movie/year9.jpg","name": "星球大战"},
+    {"pic": "../../../static/img/movie/year10.jpg","name": "小黄人"}
+  ],
+  "marketBurst": [
+    {
+      "title": "爆款来袭，全场包邮限时秒杀哦!",
+      "price1": "48",
+      "intro1": "大黄蜂 手机壳",
+      "pic1": "../../../static/img/movie/bee1.jpg",
+      "price2": "29",
+      "intro2": "大黄蜂开瓶器 数据线",
+      "pic2": "../../../static/img/movie/bee2.jpg",
+      "price3": "99",
+      "intro3": "漫威-蚁人2无线蓝牙鼠标",
+      "pic3": "../../../static/img/movie/bee3.jpg"
+    },
+    {
+      "title": "高玩极客区",
+      "price1": "168",
+      "intro1": "正版限量~心理罪*乌贼无人机",
+      "pic1": "../../../static/img/movie/bee4.jpg",
+      "price2": "10",
+      "intro2": "眼睛专场",
+      "pic2": "../../../static/img/movie/bee5.jpg",
+      "price3": "179",
+      "intro3": "超酷~漫威蓝牙耳机",
+      "pic3": "../../../static/img/movie/bee6.jpg"
+    }
+  ],
+  "marketShopList": [
+    {
+      "pic": "../../../static/img/movie/movieShop1.jpg",
+      "name": "预售流浪地球同名电影原版正版",
+      "now": "28.9",
+      "old": "36"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop2.jpg",
+      "name": "百粮魂电影限量版神秘礼物",
+      "now": "60",
+      "old": "150"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop3.jpg",
+      "name": "百粮魂电影限量版小光瓶*2",
+      "now": "56",
+      "old": "136"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop4.jpg",
+      "name": "百粮魂电影限量版单支礼盒",
+      "now": "168",
+      "old": "368"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop5.jpg",
+      "name": "百粮魂电影限量版双支礼盒",
+      "now": "288",
+      "old": "688"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop6.jpg",
+      "name": "夏目友人帐1-15卷漫画套装",
+      "now": "160",
+      "old": "195"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop7.jpg",
+      "name": "流浪地球场景手机壳",
+      "now": "49",
+      "old": "90"
+    },
+    {
+      "pic": "../../../static/img/movie/movieShop8.jpg",
+      "name": "流浪地球钥匙扣",
+      "now": "29.9",
+      "old": "50"
+    }
+  ],
+  "showSwiper":[
+    {"pic":"../../../static/img/movie/showSwiper1.jpg"},
+    {"pic":"../../../static/img/movie/showSwiper2.jpg"},
+    {"pic":"../../../static/img/movie/showSwiper3.jpg"},
+    {"pic":"../../../static/img/movie/showSwiper4.jpg"},
+    {"pic":"../../../static/img/movie/showSwiper5.jpg"},
+    {"pic":"../../../static/img/movie/showSwiper6.jpg"}
+  ],
+  "showClassList": [
+    {"pic": "../../../static/img/movie/showClass1.jpg","name": "演唱会"},
+    {"pic": "../../../static/img/movie/showClass2.jpg","name": "话剧歌剧"},
+    {"pic": "../../../static/img/movie/showClass3.jpg","name": "休闲展览"},
+    {"pic": "../../../static/img/movie/showClass4.jpg","name": "音乐会"},
+    {"pic": "../../../static/img/movie/showClass5.jpg","name": "戏曲艺术"},
+    {"pic": "../../../static/img/movie/showClass6.jpg","name": "亲子演出"},
+    {"pic": "../../../static/img/movie/showClass7.jpg","name": "舞蹈芭蕾"},
+    {"pic": "../../../static/img/movie/showClass8.jpg","name": "体育赛事"},
+    {"pic": "../../../static/img/movie/showClass9.jpg","name": "优惠专区"},
+    {"pic": "../../../static/img/movie/showClass10.jpg","name": "更多精彩"}
+  ],
+  "discoverBoxData": [
+    {
+      "name": "珍友社相声大会",
+      "pic1": "../../../static/img/movie/onlineShow1.jpg",
+      "pic1name": "西安珍友社-相声",
+      "pic2": "../../../static/img/movie/onlineShow2.jpg",
+      "pic2name": "西安珍友社-\"乙相声\""
+    },
+    {
+      "name": "大悦城",
+      "pic1": "../../../static/img/movie/onlineShow3.jpg",
+      "pic1name": "【小澄堡】《不知道》",
+      "pic2": "../../../static/img/movie/onlineShow4.jpg",
+      "pic2name": "LINE FRIEND"
+    }
+  ],
+  "showListData": [
+    {
+      "pic": "../../../static/img/movie/nowShow1.jpg",
+      "title": "青曲社 相声大会",
+      "time": "2019-01-22 至 2019-01-31",
+      "site": "西安 青曲社",
+      "price": "108-200",
+      "selfs": "self",
+      "choose": "choose"
+    },
+    {
+      "pic": "../../../static/img/movie/nowShow2.jpg",
+      "title": "天禧苑相声会馆",
+      "time": "2019-02-14 至 2019-02-19",
+      "site": "西安 天禧苑相声会馆",
+      "price": "100-150",
+      "selfs": "self",
+      "choose": "choose"
+    },
+    {
+      "pic": "../../../static/img/movie/nowShow3.jpg",
+      "title": "730匣子X开心麻花",
+      "time": "2019-02-14 至 2019-02-16",
+      "site": "西安 西安人民剧院",
+      "price": "100-880",
+      "selfs": "self",
+      "choose": "choose"
+    },
+    {
+      "pic": "../../../static/img/movie/nowShow4.jpg",
+      "title": "《印象莫奈》",
+      "time": "2018-12-16 至 2019-02-20",
+      "site": "西安 大悦城",
+      "price": "39-109",
+      "selfs": "",
+      "choose": ""
+    },
+    {
+      "pic": "../../../static/img/movie/nowShow5.jpg",
+      "title": "西安金翅鸟演艺",
+      "time": "2018-02-14 至 2019-02-28",
+      "site": "西安 西安金翅鸟演艺",
+      "price": "380",
+      "selfs": "self",
+      "choose": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parnavlist":[
+    {"imgs": "../../static/PartThreeImg/par_navs_1.jpg", "titles": "儿童摄影","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs2.jpg", "titles":"儿童乐园","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs3.jpg", "titles":"早教中心","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs4.jpg", "titles":"月子中心","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs5.jpg", "titles":"婴儿游泳","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs6.jpg", "titles":"幼儿才艺","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs7.jpg", "titles":"幼儿英语","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs8.jpg", "titles":"产后恢复","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs9.jpg", "titles":"婴儿理发","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs10.jpg", "titles":"亲子摄影","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs11.jpg", "titles":"宝宝派对","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs12.jpg", "titles":"幼儿科学","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs13.jpg", "titles":"儿童医院","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs14.jpg", "titles":"绘本管","paths":"/"},
+    {"imgs": "../../static/PartThreeImg/par_navs15.jpg", "titles":"全部分类","paths": "/parentclass"}
+  ]
+}

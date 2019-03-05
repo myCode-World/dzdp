@@ -1,0 +1,16 @@
+{
+  "navslist":[
+    {"imgs":"../../static/PartThreeImg/haird_navs1.jpg","titles":"美发"},
+    {"imgs":"../../static/PartThreeImg/haird_navs2.jpg","titles":"美甲美睫"},
+    {"imgs":"../../static/PartThreeImg/harid_navs3.jpg","titles":"美容SPA"},
+    {"imgs":"../../static/PartThreeImg/haird_navs4.jpg","titles":"医学美容"},
+    {"imgs":"../../static/PartThreeImg/haird_navs5.jpg","titles":"皮肤管理"},
+    {"imgs":"../../static/PartThreeImg/haird_navs6.jpg","titles":"化妆品"},
+    {"imgs":"../../static/PartThreeImg/haird_navs7.jpg","titles":"舞蹈"},
+    {"imgs":"../../static/PartThreeImg/haird_navs8.jpg","titles":"韩式定妆"},
+    {"imgs":"../../static/PartThreeImg/haird_navs9.jpg","titles":"瑜伽"},
+    {"imgs":"../../static/PartThreeImg/haird_navs10.jpg","titles":"纤体瘦身"},
+    {"imgs":"../../static/PartThreeImg/haird_navs11.jpg","titles":"祛痘"},
+    {"imgs":"../../static/PartThreeImg/haird_navs12.jpg","titles":"纹身"}
+    ]
+}

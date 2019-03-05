@@ -1,0 +1,34 @@
+{
+  "storelist": [
+    {"storeimg": "../../static/PartThreeImg/nearby_1.jpg",
+      "storenames": "爱菲月子会所(高新店)",
+      "tuan": "../../static/PartThreeImg/tuan.jpg",
+      "ding": "../../static/PartThreeImg/ding.jpg",
+      "xing": "../../static/PartThreeImg/xingxing.jpg",
+      "price":"￥19525",
+      "theme": "月子会所",
+      "address": "科技路沿",
+      "distance": "607m",
+      "project": "月子餐试吃",
+      "policy": "产后恢复",
+      "give": "【爱菲年度巨献",
+      "number": "859",
+      "activity": "仅售7180元，价值12800元爱..."
+    },
+    {"storeimg": "../../static/PartThreeImg/nearby_2.jpg",
+      "storenames": "芳妮豆丁儿童摄影",
+      "tuan": "../../static/PartThreeImg/tuan.jpg",
+      "ding": "../../static/PartThreeImg/ding.jpg",
+      "xing": "../../static/PartThreeImg/xingxing.jpg",
+      "price":"￥1833",
+      "theme": "儿童摄影",
+      "address": "高新路沿",
+      "distance": "1.9km",
+      "project": "亲子照",
+      "policy": "成长套系",
+      "give": "送芳妮豆丁独",
+      "number": "6928",
+      "activity": "仅售1898元，价值3798元儿童..."
+    }
+  ]
+}

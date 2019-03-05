@@ -1,0 +1,213 @@
+{
+  "experience":[
+    {"experienceImg": "../static/img/ty-01.png",
+      "experienceTitle": "",
+      "titleImg": "../static/img/bichibang.png",
+      "experienceCon": "权威榜单，西安必吃餐厅指南",
+      "experienceStyle": "width:2.285rem; height: 1.4rem;"
+    },
+    {"experienceImg": "../static/img/ty-02.png",
+      "experienceTitle": "传统景点",
+      "titleImg": "",
+      "experienceCon": "第一次都签个到才算来过西安",
+      "experienceStyle": "width:1.135rem; height: 1.4rem;"
+    },
+    {"experienceImg": "../static/img/ty-03.png",
+      "experienceTitle": "本地小吃",
+      "titleImg": "",
+      "experienceCon": "西安小吃魔鬼安利（持续更新）",
+      "experienceStyle": "width:1.135rem; height: 1.1rem;"
+    },
+    {"experienceImg": "../static/img/ty-03.png",
+      "experienceTitle": "酒店体验",
+      "titleImg": "",
+      "experienceCon": "西安小吃魔鬼安利（持续更新）",
+      "experienceStyle": "width:1.135rem; height: 1.1rem;"
+    },
+    {"experienceImg": "../static/img/ty-04.png",
+      "experienceTitle": "美食街",
+      "titleImg": "",
+      "experienceCon": "回民街小吃集锦，一家一家吃",
+      "experienceStyle": "width:1.135rem; height: 1.1rem;"
+    }
+  ],
+  "characteristic": [
+    {"imgPic": "../static/img/tese-01.png","nameTitle": "肉夹馍"},
+    {"imgPic": "../static/img/tese-02.png","nameTitle": "凉皮"},
+    {"imgPic": "../static/img/tese-03.png","nameTitle": "泡馍"},
+    {"imgPic": "../static/img/tese-04.png","nameTitle": "肉丸胡辣"},
+    {"imgPic": "../static/img/tese-05.png","nameTitle": "油泼面"}
+  ],
+  "teseCon": [
+    {"nameHead": "肉夹馍","conPic": "../static/img/teseBig-01.png",
+      "introTxt": "肉夹馍是古汉语“肉夹于馍的简称，陕西著名小吃。咸香的腊肉汁和白吉馍为一体，互为烘托，将各自滋味发挥到极致。馍香肉酥，肥而不腻，回味无穷，有着中式汉堡的美誉，扬名中外，深受人们喜爱。",
+      "shops": [
+        {"shopsRank":"1","shopsName": "秦豫肉夹馍（东木头市店）","shopsImg": "../static/img/shoplist-01.png","shopsTuijian": "“精致肉夹馍”点的纯瘦的，馍外酥里嫩","addression": "钟楼/鼓楼 肉夹馍","distance": "8.2km","shopShouCan": "6.0万"},
+        {"shopsRank":"2","shopsName": "子午路张记（子午路总店）","shopsImg": "../static/img/shoplist-02.png","shopsTuijian": "口味:腊牛肉夹馍很好吃，刚出锅的馍","addression": "小寨 肉夹馍  小寨 肉夹馍","distance": "7.6km","shopShouCan": "3.3万"}
+      ]},
+    {"nameHead": "凉皮","conPic": "../static/img/teseBig-02.png",
+      "introTxt": "凉皮是古汉语“肉夹于馍的简称，陕西著名小吃。咸香的腊肉汁和白吉馍为一体，互为烘托，将各自滋味发挥到极致。馍香肉酥，肥而不腻，回味无穷，有着中式汉堡的美誉，扬名中外，深受人们喜爱。",
+      "shops": [
+        {"shopsRank":"1","shopsName": "秦豫肉夹馍（东木头市店）","shopsImg": "../static/img/shoplist-01.png","shopsTuijian": "“精致肉夹馍”点的纯瘦的，馍外酥里嫩","addression": "钟楼/鼓楼 肉夹馍","distance": "8.2km","shopShouCan": "6.0万"},
+        {"shopsRank":"2","shopsName": "子午路张记（子午路总店）","shopsImg": "../static/img/shoplist-02.png","shopsTuijian": "口味:腊牛肉夹馍很好吃，刚出锅的馍","addression": "小寨 肉夹馍  小寨 肉夹馍","distance": "7.6km","shopShouCan": "3.3万"}
+      ]},
+    {"nameHead": "泡馍","conPic": "../static/img/teseBig-03.png",
+      "introTxt": "泡馍是古汉语“肉夹于馍的简称，陕西著名小吃。咸香的腊肉汁和白吉馍为一体，互为烘托，将各自滋味发挥到极致。馍香肉酥，肥而不腻，回味无穷，有着中式汉堡的美誉，扬名中外，深受人们喜爱。",
+      "shops": [
+        {"shopsRank":"1","shopsName": "秦豫肉夹馍（东木头市店）","shopsImg": "../static/img/shoplist-01.png","shopsTuijian": "“精致肉夹馍”点的纯瘦的，馍外酥里嫩","addression": "钟楼/鼓楼 肉夹馍","distance": "8.2km","shopShouCan": "6.0万"},
+        {"shopsRank":"2","shopsName": "子午路张记（子午路总店）","shopsImg": "../static/img/shoplist-02.png","shopsTuijian": "口味:腊牛肉夹馍很好吃，刚出锅的馍","addression": "小寨 肉夹馍  小寨 肉夹馍","distance": "7.6km","shopShouCan": "3.3万"}
+      ]},
+    {"nameHead": "肉丸胡辣","conPic": "../static/img/teseBig-04.png",
+      "introTxt": "肉丸胡辣是古汉语“肉夹于馍的简称，陕西著名小吃。咸香的腊肉汁和白吉馍为一体，互为烘托，将各自滋味发挥到极致。馍香肉酥，肥而不腻，回味无穷，有着中式汉堡的美誉，扬名中外，深受人们喜爱。",
+      "shops": [
+        {"shopsRank":"1","shopsName": "秦豫肉夹馍（东木头市店）","shopsImg": "../static/img/shoplist-01.png","shopsTuijian": "“精致肉夹馍”点的纯瘦的，馍外酥里嫩","addression": "钟楼/鼓楼 肉夹馍","distance": "8.2km","shopShouCan": "6.0万"},
+        {"shopsRank":"2","shopsName": "子午路张记（子午路总店）","shopsImg": "../static/img/shoplist-02.png","shopsTuijian": "口味:腊牛肉夹馍很好吃，刚出锅的馍","addression": "小寨 肉夹馍  小寨 肉夹馍","distance": "7.6km","shopShouCan": "3.3万"}
+      ]},
+    {"nameHead": "油泼面","conPic": "../static/img/teseBig-05.png",
+      "introTxt": "油泼面是古汉语“肉夹于馍的简称，陕西著名小吃。咸香的腊肉汁和白吉馍为一体，互为烘托，将各自滋味发挥到极致。馍香肉酥，肥而不腻，回味无穷，有着中式汉堡的美誉，扬名中外，深受人们喜爱。",
+      "shops": [
+        {"shopsRank":"1","shopsName": "秦豫肉夹馍（东木头市店）","shopsImg": "../static/img/shoplist-01.png","shopsTuijian": "“精致肉夹馍”点的纯瘦的，馍外酥里嫩","addression": "钟楼/鼓楼 肉夹馍","distance": "8.2km","shopShouCan": "6.0万"},
+        {"shopsRank":"2","shopsName": "子午路张记（子午路总店）","shopsImg": "../static/img/shoplist-02.png","shopsTuijian": "口味:腊牛肉夹馍很好吃，刚出锅的馍","addression": "小寨 肉夹馍  小寨 肉夹馍","distance": "7.6km","shopShouCan": "3.3万"}
+      ]}
+  ],
+  "tastePlay": [
+    {"titleHeader": "地道西安味","tasteList": [
+      {"tasteListImg": "../static/img/taste-01.png","tasteTitle": "西北菜口味Top榜","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-02.png","tasteTitle": "网红店榜 全城必打卡","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-03.png","tasteTitle": "冷怂的跌面，西安好吃的","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-04.png","tasteTitle": "西安好吃的豆皮涮牛肉","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]}
+    ]},
+    {"titleHeader": "当地人爱玩","tasteList": [
+      {"tasteListImg": "../static/img/taste-04.png","tasteTitle": "文青集合地，西安博物馆略要","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-03.png","tasteTitle": "西安人的城墙下是西安人的歌","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-02.png","tasteTitle": "西安性价比高的高档酒店","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]},
+      {"tasteListImg": "../static/img/taste-01.png","tasteTitle": "闲散的西安华山游","tasteRank": [
+        {"rankTxt": "Top1 袁家村关中印象"},
+        {"rankTxt": "Top2 遇见长安"},
+        {"rankTxt": "Top3 袁家村关中印象"}
+      ]}
+    ]}
+
+  ],
+  "cityCirle": [
+    {"circleName": "","imgPic": "../static/img/city-01.png",
+      "circleSign": [
+      {"sign":"当地小吃聚集"},
+      {"sign":"内含明胜古迹"}],
+      "tipslist": [
+      {"tips": "永兴坊聚集了许多西安特色小吃"},
+      {"tips": "步行街是情侣休闲娱乐的好去处"}]
+    },
+    {"circleName": "","imgPic": "../static/img/city-02.png",
+      "circleSign": [
+        {"sign":"当地小吃聚集"},
+        {"sign":"内含明胜古迹"}
+      ],
+      "tipslist": [
+        {"tips": "永兴坊聚集了许多西安特色小吃"},
+        {"tips": "步行街是情侣休闲娱乐的好去处"}
+      ]}
+  ],
+  "showList": [
+    {"bigPic": "../static/img/show-01.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-02.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-03.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-04.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-05.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-06.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-07.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-08.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-01.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-02.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-03.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-04.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-05.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-06.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-07.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-08.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-01.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-02.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-03.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-04.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-05.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-06.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-07.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"},
+    {"bigPic": "../static/img/show-08.png","showTitle": "[西安]火锅中的卡扛把子","near":"仙奴毛肚火锅等6家店",
+      "userImg": "../static/img/user-01.png","grade": "../static/img/grade-01.png",
+      "userName": "小兔子","jibie": "../static/img/level-01.png","zanNum": "16"}
+  ]
+}

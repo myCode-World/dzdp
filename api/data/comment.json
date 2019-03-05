@@ -1,0 +1,77 @@
+{
+  "bannerData": [
+     {"banner": "../../static/assets/img/banner1.png"},
+     {"banner": "../../static/assets/img/banner2.png"},
+     {"banner": "../../static/assets/img/banner3.png"},
+     {"banner": "../../static/assets/img/banner4.png"}
+  ],
+  "commentData": [
+    {
+      "pic1": "../../static/assets/img/ting.png",
+      "userName": "小婷子",
+      "dengji": "Lv5",
+      "date":"2月6日",
+      "time": "8:25",
+      "intro": "景色真的是太美了。晚上去的，人超多，感觉北京也没有哪个景点这么火爆。整个景区被五彩斑斓的灯光映射下显得格外耀眼。小朋友一进到景区看着树上，主干道到处都是灯光兴奋的厉害，各种拍照留念，真是西安必玩的地方。",
+      "pic2": "../../../static/assets/img/wuxing.png",
+      "pic3": "../../../static/assets/img/buye.png",
+      "h5": "大唐不夜城",
+      "money": "¥73元/位",
+      "zan": "☆3971",
+      "address": "西安 大雁塔 其他景点",
+      "biao": "2019必玩榜",
+      "num": "浏览538",
+      "ren": "../../../static/assets/img/ren.png"
+    }
+  ],
+  "navData": [
+    {
+      "pic1": "../../static/assets/img/ting.png",
+      "userName": "Fabe犇小霏",
+      "pic2": "../../../static/assets/img/zuan.png",
+      "date":"2月6日",
+      "time": "8:25",
+      "uls": [
+        {
+          "pic1":"../../../static/assets/img/nav1.png",
+          "pic2":"../../../static/assets/img/nav2.png",
+          "pic3":"../../../static/assets/img/nav3.png",
+          "text": "景色真的是太美了。晚上去的，人超多，感觉北京也没有哪个景点这么火爆。整个景区被五彩斑斓的灯光映射下显得格外耀眼。小朋友一进到景区看着树上，主干道到处都是灯光兴奋的厉害，各种拍照留念，真是西安必玩的地方。"
+        }
+      ],
+      "pic4": "../../../static/assets/img/datang.png",
+      "h5": "大唐芙蓉园",
+      "money": "¥73元/位",
+      "zan": "☆9928",
+      "address": "西安 曲江新区 其他景点",
+      "biao": "随手拍西安",
+      "num": "浏览5.0万",
+      "ren": "../../../static/assets/img/ren.png",
+      "dianzan": "15人赞"
+    },
+    {
+      "pic1": "../../static/assets/img/ting.png",
+      "userName": "Fabe犇小霏",
+      "pic2": "../../../static/assets/img/zuan.png",
+      "date":"2月6日",
+      "time": "8:25",
+      "uls": [
+        {
+          "pic1":"../../../static/assets/img/nav1.png",
+          "pic2":"../../../static/assets/img/nav2.png",
+          "pic3":"../../../static/assets/img/nav3.png",
+          "text": "景色真的是太美了。晚上去的，人超多，感觉北京也没有哪个景点这么火爆。整个景区被五彩斑斓的灯光映射下显得格外耀眼。小朋友一进到景区看着树上，主干道到处都是灯光兴奋的厉害，各种拍照留念，真是西安必玩的地方。"
+        }
+      ],
+      "pic4": "../../../static/assets/img/datang.png",
+      "h5": "大唐芙蓉园",
+      "money": "¥73元/位",
+      "zan": "☆9928",
+      "address": "西安 曲江新区 其他景点",
+      "biao": "随手拍西安",
+      "num": "浏览5.0万",
+      "ren": "../../../static/assets/img/ren.png",
+      "dianzan": "15人赞"
+    }
+  ]
+}

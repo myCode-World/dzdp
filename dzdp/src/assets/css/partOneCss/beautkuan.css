@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+.header ul {
+    width: 100%;
+    background: #ebebeb;
+}
+
+.header .kuan-li-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: .55rem;
+    padding: 0 10px;
+    background: #ffffff;
+}
+
+.header .kuan-li-1 img {
+    display: block;
+    height: .2rem;
+}
+
+.kuan-li-1 span {
+    display: block;
+    font-size: .18rem;
+}
+
+.header .kuan-li-2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #ffffff;
+    margin-top: 1px;
+    height: .4rem;
+}
+
+.span-kuan {
+    width: 24%;
+    text-align: center;
+    font-size: .17rem;
+}
+
+.span-kuan:nth-child(1) {
+    color: #ff6735;
+}
+
+.sction .img-kuan {
+    width: 1.25rem;
+    position: absolute;
+    top: 5rem;
+    right: 0;
+}
+
+.kuan-li-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: .05rem;
+}
+
+.kuan-li-3 div {
+    width: 49%;
+    background: #ffffff;
+  padding-bottom: .15rem;
+}
+
+.kuan-li-3 div .kuan-imgs-1 {
+    display: block;
+    width: 100%;
+}
+
+.kuan-li-3 div .kuan-p-1 {
+    display: flex;
+    height: .5rem;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.kuan-li-3 div .kuan-imgs-2 {
+    display: block;
+    height: .17rem;
+    margin: 0 10px;
+}
+
+.kuan-li-3 div .kuan-p-1 span {
+    display: block;
+    font-size: .17rem;
+}
+
+.kuan-li-3 div .kuan-imgs-3 {
+    display: block;
+    width: 1.03rem;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.kuan-li-3 div .kuan-p-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-size: .13rem;
+}
+
+.kuan-li-3 div .kuan-p-2 span {
+    display: block;
+    font-size: .13rem;
+    color: #8f8f8f;
+}

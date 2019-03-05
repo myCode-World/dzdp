@@ -1,0 +1,52 @@
+{
+  "bestlist":[
+    {"bestimgs": "../../static/PartThreeImg/best_con_img1.jpg","bestnames": "华夏文旅西安度假区",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "158",
+      "category": "其他景点",
+    "distance": "浐灞半岛/世园会,距我20.3k...",
+      "price": "110","discount": "返完乐礼包","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_img2.jpg","bestnames": "9号宇宙研学基地",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "66",
+      "category": "其他展览展馆",
+      "distance": "曲江新区，距我8.8km",
+      "price": "178","discount": "返完乐礼包","usgae": "可定明日"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_img3.jpg","bestnames": "大唐芙蓉园(5A)",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "158",
+      "category": "其他景点",
+      "distance": "大雁塔,距我9.5km",
+      "price": "88","discount": "返完乐礼包","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_img4.jpg","bestnames": "秦始皇陵博物院",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "11474",
+      "category": "名胜古迹",
+      "distance": "兵马俑,距我42.9km",
+      "price": "110","discount": "立减2元","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_img5.jpg","bestnames": "西安5D星空错觉艺术馆",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "5分","num": "125",
+      "category": "其他展览展馆",
+      "distance": "小寨,距我7Km",
+      "price": "35","discount": "返完乐礼包","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_6.jpg","bestnames": "水利丰温泉",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "34",
+      "category": "温泉",
+      "distance": "交大/理工大，距我9.9km",
+      "price": "25","discount": "返完乐礼包","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_7.jpg","bestnames": "诗经里",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "171",
+      "category": "公园游乐场",
+      "distance": "长安区，距我12.2km",
+      "price": "110","discount": "返完乐礼包","usgae": "随买随用"
+    },
+    {"bestimgs": "../../static/PartThreeImg/best_con_img8.jpg","bestnames": "太白山凤凰温泉",
+      "xing": "../../static/PartThreeImg/xingxing.jpg","scores": "4.5分","num": "630",
+      "category": "温泉",
+      "distance": "眉县",
+      "price": "82","discount": "立减6元","usgae": "随买随用"
+    }
+  ]
+}

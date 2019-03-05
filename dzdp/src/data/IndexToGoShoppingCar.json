@@ -1,0 +1,378 @@
+{
+  "foodListData": [
+    {"name": "热销","idName": "#hotSale","pic": "../../../static/img/shoppingCar/hot.jpg"},
+    {"name": "凉皮面皮米皮","idName": "#liangPi"},
+    {"name": "特色类","idName": "#special"},
+    {"name": "粥.饮料类","idName": "#porridge"},
+    {"name": "特色小吃类","idName": "#littleFood"},
+    {"name": "新品上市","idName": "#new"},
+    {"name": "米饭类","idName": "#rice"},
+    {"name": "西餐类","idName": "#westFood"}
+  ],
+  "chargeList": [
+    {"name": "全部","num":"3183"},
+    {"name": "好评","num":"2982"},
+    {"name": "差评","num":"130"},
+    {"name": "有图评价","num":"76"},
+    {"name": "味道赞","num":"71"},
+    {"name": "满意","num":"32"},
+    {"name": "服务好","num":"23"},
+    {"name": "菜品不错","num":"5"},
+    {"name": "包装好","num":"5"},
+    {"name": "价格实惠","num":"4"}
+  ],
+
+  "userCharge": [
+    {
+      "headPic":"../../../static/img/shoppingCar/head1.jpg",
+      "name": "东马和纱piao",
+      "date": "2019-01-12",
+      "time": "34",
+      "cont": "牛肉盖饭，台湾卤肉饭",
+      "artical": "牛肉饭最好吃，一个盒子四个菜色，孜然麻辣面筋，手撕包菜，酸辣海带丝，真的很好吃",
+      "level": "快速准时，礼貌热情"
+    },
+    {
+      "headPic":"../../../static/img/shoppingCar/head2.jpg",
+      "name": "喵MiMi",
+      "date": "2019-01-15",
+      "time": "32",
+      "cont": "",
+      "artical": "还行吧，纯瘦的肉夹馍里好大一块肥肉",
+      "level": ""
+    },
+    {
+      "headPic":"../../../static/img/shoppingCar/head1.jpg",
+      "name": "你强任你强",
+      "date": "2019-01-16",
+      "time": "31",
+      "cont": "纯瘦肉夹馍，米皮",
+      "artical": "非常棒，吃了很多次了",
+      "level": "风雨无阻，快速准时，穿戴工服，货品完好"
+    },
+    {
+      "headPic":"../../../static/img/shoppingCar/head1.jpg",
+      "name": "VoYage1652348",
+      "date": "2019-01-12",
+      "time": "32",
+      "cont": "米皮",
+      "artical": "挺好的",
+      "level": ""
+    }
+  ],
+  "shopBox": [
+    {
+      "idName": "hotSale",
+      "titleName": "热销",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale1.jpg",
+          "name": "秘制凉皮",
+          "sale": "2318",
+          "like": "46",
+          "price": 11
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale2.jpg",
+          "name": "肉夹馍",
+          "sale": "443",
+          "like": "6",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale3.jpg",
+          "name": "南瓜粥",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale4.jpg",
+          "name": "米皮",
+          "sale": "237",
+          "like": "2",
+          "price": 7
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale5.jpg",
+          "name": "八宝粥",
+          "sale": "228",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale6.jpg",
+          "name": "油条",
+          "sale": "193",
+          "like": "5",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale7.jpg",
+          "name": "皮蛋瘦肉粥",
+          "sale": "172",
+          "like": "3",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale8.jpg",
+          "name": "皮蛋瘦肉粥",
+          "sale": "159",
+          "like": "1",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "idName": "liangPi",
+      "titleName": "凉皮面皮米皮",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale4.jpg",
+          "name": "米皮",
+          "sale": "237",
+          "like": "2",
+          "price": 7
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/pi2.jpg",
+          "name": "麻酱凉皮",
+          "sale": "90",
+          "like": "2",
+          "price": 11
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/pi3.jpg",
+          "name": "面皮",
+          "sale": "157",
+          "like": "1",
+          "price": 7
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/pi4.jpg",
+          "name": "秘制凉皮",
+          "sale": "539",
+          "like": "5",
+          "price": 11
+        }
+      ]
+    },
+    {
+      "idName": "special",
+      "titleName": "特色类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/pi2.jpg",
+          "name": "麻酱凉皮",
+          "sale": "90",
+          "like": "2",
+          "price": 11
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/pi3.jpg",
+          "name": "面皮",
+          "sale": "157",
+          "like": "1",
+          "price": 7
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/pi4.jpg",
+          "name": "秘制凉皮",
+          "sale": "539",
+          "like": "5",
+          "price": 11
+        }
+      ]
+    },
+    {
+      "idName": "porridge",
+      "titleName": "粥.饮料类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/porridge1.jpg",
+          "name": "滋补乌鸡汤",
+          "sale": "56",
+          "like": "1",
+          "price": 10
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge2.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge3.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge4.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge5.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge6.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/porridge7.jpg",
+          "name": "虫草花排骨汤",
+          "sale": "49",
+          "like": "1",
+          "price": 9
+        }
+      ]
+    },
+    {
+      "idName": "littleFood",
+      "titleName": "特色小吃类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale6.jpg",
+          "name": "油条",
+          "sale": "193",
+          "like": "5",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hotSale2.jpg",
+          "name": "肉夹馍",
+          "sale": "443",
+          "like": "6",
+          "price": 9
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/special2.jpg",
+          "name": "地瓜丸",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "idName": "new",
+      "titleName": "新品上市",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/new1.jpg",
+          "name": "粽子",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/new1.jpg",
+          "name": "粽子",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/new1.jpg",
+          "name": "粽子",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "idName": "rice",
+      "titleName": "米饭类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/rice1.jpg",
+          "name": "台湾卤肉饭",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/rice2.jpg",
+          "name": "台湾卤肉饭",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/rice3.jpg",
+          "name": "台湾卤肉饭",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/rice4.jpg",
+          "name": "台湾卤肉饭",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/rice5.jpg",
+          "name": "台湾卤肉饭",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "idName": "westFood",
+      "titleName": "西餐类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/hamberger1.jpg",
+          "name": "汉堡",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hamberger2.jpg",
+          "name": "汉堡",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "idName": "westFood",
+      "titleName": "西餐类",
+      "shopFoodDetail": [
+        {
+          "pic": "../../../static/img/shoppingCar/hamberger1.jpg",
+          "name": "汉堡",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        },
+        {
+          "pic": "../../../static/img/shoppingCar/hamberger2.jpg",
+          "name": "汉堡",
+          "sale": "243",
+          "like": "4",
+          "price": 6
+        }
+      ]
+    }
+  ]
+}

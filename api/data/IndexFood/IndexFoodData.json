@@ -1,0 +1,153 @@
+{
+  "sites": [
+    {
+      "pic": "../../../static/img/food/good1.jpg",
+      "name": "小寨",
+      "long": "6.1Km"
+    },
+    {
+      "pic": "../../../static/img/food/good2.jpg",
+      "name": "小雁塔",
+      "long": "7.3Km"
+    },
+    {
+      "pic": "../../../static/img/food/good3.jpg",
+      "name": "回民街",
+      "long": "8.0Km"
+    },
+    {
+      "pic": "../../../static/img/food/good4.jpg",
+      "name": "大雁塔-曲江",
+      "long": "8.4Km"
+    },
+    {
+      "pic": "../../../static/img/food/good5.jpg",
+      "name": "钟楼-鼓楼",
+      "long": "8.4Km"
+    }
+  ],
+  "shopBox": [
+    {
+      "shopPic": "../../../static/img/food/shop1.jpg",
+      "shopName": "赵小姐创意餐厅(T11店)",
+      "buy": "buy",
+      "book": "",
+      "wai": "",
+      "rowls": "row",
+      "short": "",
+      "nums": "1325",
+      "price": "79",
+      "lei": "创意菜",
+      "site": "唐延路沿线",
+      "long": "2.0",
+      "special":"唐延路沿线美食热门榜第2名",
+      "discount": "9",
+      "cash": "45",
+      "money": "50",
+      "counts": "7915"
+    },
+    {
+      "shopPic": "../../../static/img/food/shop2.jpg",
+      "shopName": "荷·上乘舒食空间(T11店)",
+      "buy": "",
+      "book": "",
+      "wai": "",
+      "rowls": "",
+      "short": "",
+      "nums": "165",
+      "price": "284",
+      "lei": "素菜",
+      "site": "高新路沿线",
+      "long": "2.0",
+      "special":"想要效法米其林的那种摆盘",
+      "discount": "9",
+      "cash": "90",
+      "money": "100",
+      "counts": "34"
+    },
+    {
+      "shopPic": "../../../static/img/food/shop3.jpg",
+      "shopName": "重庆渝味晓宇火锅(高新店)",
+      "buy": "",
+      "book": "book",
+      "wai": "",
+      "rowls": "row",
+      "short": "",
+      "nums": "994",
+      "price": "104",
+      "lei": "重庆火锅",
+      "site": "高新路沿线",
+      "long": "2.0",
+      "special":"精炒五种料重庆火锅老味道",
+      "discount": "8.8",
+      "cash": "88",
+      "money": "100",
+      "counts": "68684"
+    },
+    {
+      "shopPic": "../../../static/img/food/shop4.jpg",
+      "shopName": "瓦的音乐餐厅·酒吧",
+      "buy": "",
+      "book": "book",
+      "wai": "out",
+      "rowls": "",
+      "short": "",
+      "nums": "214",
+      "price": "117",
+      "lei": "川菜家常菜",
+      "site": "高新路沿线",
+      "long": "1.7",
+      "special":"气氛很棒的音乐餐厅了",
+      "discount": "8.8",
+      "cash": "88",
+      "money": "100",
+      "counts": "1447"
+    },
+    {
+      "shopPic": "../../../static/img/food/shop5.jpg",
+      "shopName": "籣料理",
+      "buy": "buy",
+      "book": "book",
+      "wai": "out",
+      "rowls": "",
+      "short": "",
+      "nums": "703",
+      "price": "109",
+      "lei": "日本料理",
+      "site": "高新路沿线",
+      "long": "1.7",
+      "special":"芒果口味的最好吃",
+      "discount": "9",
+      "cash": "89.9",
+      "money": "100",
+      "counts": "534"
+    },
+    {
+      "shopPic": "../../../static/img/food/shop6.jpg",
+      "shopName": "太食獣泰式茶餐厅",
+      "buy": "",
+      "book": "book",
+      "wai": "",
+      "rowls": "row",
+      "short": "short",
+      "nums": "840",
+      "price": "116",
+      "lei": "东南亚菜",
+      "site": "高新路沿线",
+      "long": "1.7",
+      "special":"试营业期间7.5折",
+      "discount": "8.8",
+      "cash": "90",
+      "money": "100",
+      "counts": "2689"
+    }
+  ],
+  "foodSwiper":[
+    {"pic":"../../../static/img/food/banner1.jpg"},
+    {"pic":"../../../static/img/food/banner2.jpg"},
+    {"pic":"../../../static/img/food/banner3.jpg"},
+    {"pic":"../../../static/img/food/banner4.jpg"},
+    {"pic":"../../../static/img/food/banner5.jpg"},
+    {"pic":"../../../static/img/food/banner6.jpg"}
+  ]
+}

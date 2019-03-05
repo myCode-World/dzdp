@@ -1,0 +1,161 @@
+{
+  "trainData": [
+    {"pic": "../../static/assets/img/eng.png","subject": "外语"},
+    {"pic": "../../static/assets/img/mus.png","subject": "音乐"},
+    {"pic": "../../static/assets/img/art.png", "subject": "美术"},
+    {"pic": "../../static/assets/img/wai.png","subject": "升学辅导"},
+    {"pic": "../../static/assets/img/train.png","subject": "职业培训"}
+  ],
+  "ulsDatas": [
+    {"pic": "../../static/assets/img/edu.png","subject": "教育学院"},
+    {"pic": "../../static/assets/img/en.png", "subject": "英语"},
+    {"pic": "../../static/assets/img/yue.png","subject": "键盘乐器"},
+    {"pic": "../../static/assets/img/xiao.png","subject": "小学辅导"},
+    {"pic": "../../static/assets/img/shu.png","subject": "书法培训"},
+    {"pic": "../../static/assets/img/xing.png", "subject": "兴趣生活"},
+    {"pic": "../../static/assets/img/qin.png","subject": "弦乐器"},
+    {"pic": "../../static/assets/img/plane.png","subject": "留学"},
+    {"pic": "../../static/assets/img/tv.png","subject": "在线教育"},
+    {"pic": "../../static/assets/img/chang.png","subject": "乐理声乐"},
+    {"pic": "../../static/assets/img/chu.png", "subject": "初中辅导"},
+    {"pic": "../../static/assets/img/hong.png", "subject": "烘焙厨艺"},
+    {"pic": "../../static/assets/img/da.png", "subject": "打击乐器"},
+    {"pic": "../../static/assets/img/can.png", "subject": "餐饮酒店"},
+    {"pic": "../../static/assets/img/ri.png", "subject": "日语"},
+    {"pic": "../../static/assets/img/stem.png", "subject": "STEM"},
+    {"pic": "../../static/assets/img/hua.png", "subject": "花艺"},
+    {"pic": "../../static/assets/img/min.png", "subject": "民族乐器"},
+    {"pic": "../../static/assets/img/cou.png", "subject": "会计"},
+    {"pic": "../../static/assets/img/quan.png", "subject": "全部"}
+  ],
+  "classify":[
+    { "pic" : ".../../static/assets/img/one.png"},
+    { "pic" : "../../static/assets/img/two.png"}
+  ],
+  "classifyOne": [
+    { "pic" : "../../static/assets/img/three.png"},
+    { "pic" : "../../static/assets/img/four.png"},
+    { "pic" : "../../static/assets/img/five.png"}
+  ],
+  "rankingListUls": [
+      {"pic": "../../static/assets/img/engTrain.png"},
+      {"pic": "../../static/assets/img/music.png"},
+      {"pic": "../../static/assets/img/artTrain.png"},
+      {"pic": "../../static/assets/img/jineng.png"},
+      {"pic": "../../static/assets/img/jia.png"},
+      {"pic": "../../static/assets/img/sheng.png"},
+      {"pic": "../../static/assets/img/xingqu.png"},
+      {"pic": "../../static/assets/img/liu.png"},
+      {"pic": "../../static/assets/img/hai.png"}
+  ],
+  "lisData": [
+    {"txt": "外语培训"},
+    {"txt": "音乐培训"},
+    {"txt": "美术培训"},
+    {"txt": "升学辅导"},
+    {"txt": "职业技术"},
+    {"txt": "兴趣生活"},
+    {"txt": "驾校"},
+    {"txt": "留学"}
+  ],
+  "detailsData": [
+    {
+      "leftBox": [
+        {
+          "pic1": "../../static/assets/img/meilian.png",
+          "pic2": "../../static/assets/img/yuyue.png"
+        }
+      ],
+      "rightBox": [
+        {
+          "title": "美联英语(曲江金地中心)",
+          "pic1": "../../static/assets/img/ping.png",
+          "address1": "曲江新区",
+          "address2": "英语",
+          "pic2": "../../static/assets/img/xiaoguo.png",
+          "address3": ">100km",
+          "pic3": "../../static/assets/img/shi.png",
+          "videoDisplay": "视频展示：课堂、师资、品牌",
+          "pic4": "../../static/assets/img/dingdan.png",
+          "ding": "免费试听：开年美联送福利+资深中/外教...",
+          "pic5": "../../static/assets/img/tuan.png",
+          "tuan": "美联英语！仅售9.9元，价值3950元青少精..."
+        }
+      ]
+    },
+    {
+      "leftBox": [
+        {
+          "pic1": "../../static/assets/img/meilian.png",
+          "pic2": "../../static/assets/img/yuyue.png"
+        }
+      ],
+      "rightBox": [
+        {
+          "title": "美联英语(曲江金地中心)",
+          "pic1": "../../static/assets/img/ping.png",
+          "address1": "曲江新区",
+          "address2": "英语",
+          "pic2": "../../static/assets/img/xiaoguo.png",
+          "address3": ">100km",
+          "pic3": "../../static/assets/img/shi.png",
+          "videoDisplay": "视频展示：课堂、师资、品牌",
+          "pic4": "../../static/assets/img/dingdan.png",
+          "ding": "免费试听：开年美联送福利+资深中/外教...",
+          "pic5": "../../static/assets/img/tuan.png",
+          "tuan": "美联英语！仅售9.9元，价值3950元青少精..."
+        }
+      ]
+    },
+    {
+      "leftBox": [
+        {
+          "pic1": "../../static/assets/img/meilian.png",
+          "pic2": "../../static/assets/img/yuyue.png"
+        }
+      ],
+      "rightBox": [
+        {
+          "title": "美联英语(曲江金地中心)",
+          "pic1": "../../static/assets/img/ping.png",
+          "address1": "曲江新区",
+          "address2": "英语",
+          "pic2": "../../static/assets/img/xiaoguo.png",
+          "address3": ">100km",
+          "pic3": "../../static/assets/img/shi.png",
+          "videoDisplay": "视频展示：课堂、师资、品牌",
+          "pic4": "../../static/assets/img/dingdan.png",
+          "ding": "免费试听：开年美联送福利+资深中/外教...",
+          "pic5": "../../static/assets/img/tuan.png",
+          "tuan": "美联英语！仅售9.9元，价值3950元青少精..."
+        }
+      ]
+    },
+    {
+      "leftBox": [
+        {
+          "pic1": "../../static/assets/img/meilian.png",
+          "pic2": "../../static/assets/img/yuyue.png"
+        }
+      ],
+      "rightBox": [
+        {
+          "title": "美联英语(曲江金地中心)",
+          "pic1": "../../static/assets/img/ping.png",
+          "address1": "曲江新区",
+          "address2": "英语",
+          "pic2": "../../static/assets/img/xiaoguo.png",
+          "address3": ">100km",
+          "pic3": "../../static/assets/img/shi.png",
+          "videoDisplay": "视频展示：课堂、师资、品牌",
+          "pic4": "../../static/assets/img/dingdan.png",
+          "ding": "免费试听：开年美联送福利+资深中/外教...",
+          "pic5": "../../static/assets/img/tuan.png",
+          "tuan": "美联英语！仅售9.9元，价值3950元青少精..."
+        }
+      ]
+    }
+
+  ]
+}
+

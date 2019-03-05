@@ -1,0 +1,37 @@
+{
+  "toolList": [
+    {"listImg": "../static/img/tool-01.png","listTitle": "收藏"},
+    {"listImg": "../static/img/tool-02.png","listTitle": "待点评"},
+    {"listImg": "../static/img/tool-03.png","listTitle": "攻略"},
+    {"listImg": "../static/img/tool-04.png","listTitle": "最近浏览"},
+    {"listImg": "../static/img/tool-05.png","listTitle": "我的关注"}
+  ],
+  "toolList2": [
+    {"listImg": "../static/img/tool-06.png","listTitle": "待付款"},
+    {"listImg": "../static/img/tool-07.png","listTitle": "可使用"},
+    {"listImg": "../static/img/tool-08.png","listTitle": "退款/售后"},
+    {"listImg": "../static/img/tool-09.png","listTitle": "我的订单"},
+    {"listImg": "../static/img/tool-10.png","listTitle": "卡券"},
+    {"listImg": "../static/img/tool-11.png","listTitle": "积分"},
+    {"listImg": "../static/img/tool-12.png","listTitle": "借钱"},
+    {"listImg": "../static/img/tool-13.png","listTitle": "我的钱包"}
+  ],
+  "hitList1": [
+    {"hitTxt": "会员等级","text": "升级即享更多lv特权"},
+    {"hitTxt": "VIP俱乐部"},
+    {"hitTxt": "我的勋章"},
+    {"hitTxt": "论坛社区"},
+    {"hitTxt": "发票助手"},
+    {"hitTxt": "贡献信息"},
+    {"hitTxt": "联系客服"},
+    {"hitTxt": "会员等级"}
+  ],
+  "hitList2": [
+    {"hitTxt": "美团公益"},
+    {"hitTxt": "我要合作"},
+    {"hitTxt": "企业服务"}
+  ],
+  "hitList3": [
+    {"hitTxt": "协议及申明"}
+  ]
+}

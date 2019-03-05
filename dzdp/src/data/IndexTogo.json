@@ -1,0 +1,173 @@
+{
+  "togoList": [
+    {"img": "../../../static/img/togo/togo1.jpg","name": "美食"},
+    {"img": "../../../static/img/togo/togo2.jpg","name": "生鲜果蔬"},
+    {"img": "../../../static/img/togo/togo3.jpg","name": "超市便利"},
+    {"img": "../../../static/img/togo/togo4.jpg","name": "美团专送"},
+    {"img": "../../../static/img/togo/togo5.jpg","name": "跑腿代购"},
+    {"img": "../../../static/img/togo/togo6.jpg","name": "午餐"},
+    {"img": "../../../static/img/togo/togo7.jpg","name": "快食简餐"},
+    {"img": "../../../static/img/togo/togo8.jpg","name": "地方菜系"},
+    {"img": "../../../static/img/togo/togo9.jpg","name": "汉堡披萨"},
+    {"img": "../../../static/img/togo/togo10.jpg","name": "甜点饮品"}
+  ],
+  "togoSwiper": [
+    {"pic": "../../../static/img/togo/swiper1.jpg"},
+    {"pic": "../../../static/img/togo/swiper2.jpg"}
+  ],
+  "priceData": [
+    {"pic": "../../../static/img/togo/special1.jpg","price": "5.0","olds": "old","oldPrice": ""},
+    {"pic": "../../../static/img/togo/special2.jpg","price": "16.12","olds": "old","oldPrice": "24.8"},
+    {"pic": "../../../static/img/togo/special3.jpg","price": "11.8","olds": "old","oldPrice": "20.8"}
+  ],
+  "togoShopListData": [
+    {
+      "pic": "../../../static/img/togo/list1.jpg",
+      "shopName": "魏家凉皮(科技三路店)",
+      "stars": "../../../static/img/togo/star.jpg",
+      "grade": "4.6",
+      "sale": "3665",
+      "minutes": "35",
+      "far": "830m",
+      "qisong": "20",
+      "peisong": "4",
+      "eachone": "25",
+      "type": "凉皮",
+      "zhe": [
+        {"fontcont": ""}
+      ],
+      "piao": "票"
+    },
+    {
+      "pic": "../../../static/img/togo/list2.jpg",
+      "shopName": "楽蜜特·高端品质盒饭(摩尔中心店)",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.2",
+      "sale": "550",
+      "minutes": "43",
+      "far": "1.7km",
+      "qisong": "15",
+      "peisong": "2",
+      "eachone": "17",
+      "type": "中式简餐",
+      "zhe": [
+        {"fontcont": "20减12"},
+        {"fontcont": "45减18"},
+        {"fontcont": "60减22"},
+        {"fontcont": "3.67折起"},
+        {"fontcont": "返1元券"}
+      ],
+      "piao": ""
+    },
+    {
+      "pic": "../../../static/img/togo/list3.jpg",
+      "shopName": "肯德基宅急送(唐兴路店)",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.6",
+      "sale": "919",
+      "minutes": "30",
+      "far": "2.3km",
+      "qisong": "0",
+      "peisong": "9",
+      "eachone": "39",
+      "type": "中式简餐",
+      "zhe": [
+        {"fontcont": "6.6折起"}
+      ],
+      "piao": "票"
+    },
+    {
+      "pic": "../../../static/img/togo/list4.jpg",
+      "shopName": "吉熊堡堡●汉堡●鸡排●奶茶(南窑头)",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.5",
+      "sale": "1559",
+      "minutes": "30",
+      "far": "638m",
+      "qisong": "15",
+      "peisong": "1.5",
+      "eachone": "19",
+      "type": "西式快餐",
+      "zhe": [
+        {"fontcont": "30减20"},
+        {"fontcont": "40减27"},
+        {"fontcont": "79减35"},
+        {"fontcont": "1.01折起"},
+        {"fontcont": "返2元券"}
+      ],
+      "piao": ""
+    },
+    {
+      "pic": "../../../static/img/togo/list5.jpg",
+      "shopName": "年味水饺（科技四路店）",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.5",
+      "sale": "3716",
+      "minutes": "30",
+      "far": "795m",
+      "qisong": "15",
+      "peisong": "2.5",
+      "eachone": "16",
+      "type": "饺子",
+      "zhe": [
+        {"fontcont": "10减8"},
+        {"fontcont": "20减13"},
+        {"fontcont": "30减15"},
+        {"fontcont": "50减25"},
+        {"fontcont": "4.26折起"}
+      ],
+      "piao": ""
+    },
+    {
+      "pic": "../../../static/img/togo/list6.jpg",
+      "shopName": "张军擀面皮（岐山面科技六路店）",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.3",
+      "sale": "1983",
+      "minutes": "41",
+      "far": "1.5km",
+      "qisong": "20",
+      "peisong": "0",
+      "eachone": "17",
+      "type": "地方小吃",
+      "zhe": [
+        {"fontcont": "4减3"},
+        {"fontcont": "29减7"},
+        {"fontcont": "38减14"},
+        {"fontcont": "56减20"},
+        {"fontcont": "69减24"},
+        {"fontcont": "8.1折起"}
+      ],
+      "piao": ""
+    },
+    {
+      "pic": "../../../static/img/togo/list7.jpg",
+      "shopName": "涵敬斋黄焖鸡秘饭（高新店）",
+      "stars": "../../../static/img/togo/star2.jpg",
+      "grade": "4.0",
+      "sale": "5138",
+      "minutes": "32",
+      "far": "2.4km",
+      "qisong": "15",
+      "peisong": "2.5",
+      "eachone": "19",
+      "type": "黄焖鸡",
+      "zhe": [
+        {"fontcont": "25减12"},
+        {"fontcont": "40减19"},
+        {"fontcont": "70减32"},
+        {"fontcont": "3.3折起"}
+      ]
+    }
+  ],
+  "myselfList": [
+    {"pic": "../../../static/img/togo/selfList1.jpg","name": "我的收藏"},
+    {"pic": "../../../static/img/togo/selfList2.jpg","name": "我的评价"},
+    {"pic": "../../../static/img/togo/selfList3.jpg","name": "我的地址"}
+  ],
+  "quanList": [
+    {"pic": "../../../static/img/togo/juan1.jpg","name": "抵用券","nums": "0"},
+    {"pic": "../../../static/img/togo/juan2.jpg","name": "商家抵用券","nums": "0"},
+    {"pic": "../../../static/img/togo/juan3.jpg","name": "意见反馈","nums": ""}
+  ]
+}

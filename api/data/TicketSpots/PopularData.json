@@ -1,0 +1,24 @@
+{
+  "popularlist": [
+    {"spotimgs": "../../static/PartThreeImg/spots_imgs1.jpg","tops": "01",
+      "spotnames": "大唐芙蓉园","xing": "../../static/PartThreeImg/xingxing.jpg",
+      "scores":5,"evaluate": "6659"
+    },
+    {"spotimgs": "../../static/PartThreeImg/spots_imgs2.jpg","tops": "02",
+      "spotnames": "竹林畔滑雪场","xing": "../../static/PartThreeImg/xingxing.jpg",
+      "scores":5,"evaluate": "6659"
+    },
+    {"spotimgs": "../../static/PartThreeImg/spots_imgs3.jpg","tops": "03",
+      "spotnames": "华夏文旅海洋公园","xing": "../../static/PartThreeImg/xingxing.jpg",
+      "scores":4,"evaluate": "6659"
+    },
+    {"spotimgs": "../../static/PartThreeImg/spots_imgs4.jpg","tops": "",
+      "spotnames": "南山温泉","xing": "../../static/PartThreeImg/xingxing.jpg",
+      "scores":4,"evaluate": "6659"
+    },
+    {"spotimgs": "../../static/PartThreeImg/spots_imgs5.jpg","tops": "",
+      "spotnames": "华清爱琴海温泉","xing": "../../static/PartThreeImg/xingxing.jpg",
+      "scores":4,"evaluate": "6659"
+    }
+  ]
+}

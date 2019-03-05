@@ -1,0 +1,197 @@
+{"follow": [
+  {"followList": {"userImg": "../static/img/user-01.png",
+  "grade": "../static/img/grade-01.png",
+  "userName": "刺猬是我小名",
+  "time": "5分钟前",
+  "level": "../static/img/level-01.png",
+  "imgBox": [
+    {"imgPic": "../static/img/follow-01.png"},
+    {"imgPic": "../static/img/newAdd1.png"},
+    {"imgPic": "../static/img/newAdd2.png"},
+    {"imgPic": "../static/img/newAdd3.png"},
+    {"imgPic": "../static/img/newAdd4.png"},
+    {"imgPic": "../static/img/newAdd5.png"}
+  ],
+  "boxClass": "column3",
+  "evaluateTxt": "大年三十的全家便利店，货架都空空啦。<br>过来买了关东煮，很一般<br>不好吃<br>买了沁心卤蛋......略失望",
+  "score": "",
+  "shopImg":"../static/img/shopImg-01.png",
+  "shopTitle": "周大福（省军区军人服务社店）",
+  "shopaddre": "小寨 品牌珠宝",
+  "shoucan": "9104",
+  "look": "100",
+  "usersImg": [
+    {"imgPic": "../static/img/user-01.png"},
+    {"imgPic": "../static/img/user-01.png"},
+    {"imgPic": "../static/img/user-01.png"}
+  ],
+  "usersNum": "3"}},
+  {"followList": {"userImg": "../static/img/user-01.png",
+    "grade": "../static/img/grade-01.png",
+    "userName": "刺猬是我小名",
+    "time": "15分钟前",
+    "level": "../static/img/level-02.png",
+    "imgBox": [
+      {
+        "imgPic": "../static/img/follow-02.png"
+      },
+      {
+        "imgPic": "../static/img/follow-02.png"
+      },
+      {
+        "imgPic": "../static/img/follow-02.png"
+      },
+      {
+        "imgPic": "../static/img/follow-02.png"
+      }
+    ],
+    "boxClass": "column2",
+    "evaluateTxt": "大年三十的全家便利店，货架都空空啦。<br>过来买了关东煮，很一般<br>不好吃<br>买了沁心卤蛋......略失望",
+    "score": "",
+    "shopImg":"../static/img/shopImg-02.png",
+    "shopTitle": "京东之家",
+    "shopaddre": "雁翔路 更多生活服务",
+    "shoucan": "104",
+    "look": "15",
+    "usersImg": [
+      {"imgPic": "../static/img/user-01.png"},
+      {"imgPic": "../static/img/user-01.png"}
+    ],
+    "usersNum": "2"}},
+  {"followList": {"userImg": "../static/img/user-01.png",
+    "grade": "../static/img/grade-01.png",
+    "userName": "刺猬是我小名",
+    "time": "16分钟前",
+    "level": "../static/img/level-01.png",
+    "imgBox": [
+      {
+        "imgPic": "../static/img/follow-03.png"
+      }
+    ],
+    "boxClass": "column1",
+    "evaluateTxt": "不好吃<br>买了沁心卤蛋......略失望",
+    "score": "",
+    "shopImg":"../static/img/shopImg-03.png",
+    "shopTitle": "大刀涮肉",
+    "shopaddre": "高新路沿线 老北京火锅",
+    "shoucan": "22",
+    "look": "300",
+    "usersImg": [
+      {"imgPic": "../static/img/user-01.png"}
+    ],
+    "usersNum": "1"}},
+  {"followList": {"userImg": "../static/img/user-01.png",
+    "grade": "../static/img/grade-01.png",
+    "userName": "刺猬是我小名",
+    "time": "20分钟前",
+    "level": "../static/img/level-02.png",
+    "imgBox": [
+      {
+        "imgPic": "../static/img/follow-03.png"
+      }
+    ],
+    "boxClass": "column1",
+    "evaluateTxt": "大年三十的全家便利店，货架都空空啦。<br>买了沁心卤蛋......略失望",
+    "score": "",
+    "shopImg":"../static/img/shopImg-01.png",
+    "shopTitle": "约会莞城",
+    "shopaddre": "上海 南京东路 综合商场",
+    "shoucan": "2185",
+    "look": "101",
+    "usersImg": [
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      }
+    ],
+    "usersNum": "1"}},
+  {"followList": {"userImg": "../static/img/user-01.png",
+    "grade": "../static/img/grade-01.png",
+    "userName": "刺猬是我小名",
+    "time": "25分钟前",
+    "level": "../static/img/level-01.png",
+    "imgBox": [
+      {
+        "imgPic": "../static/img/follow-02.png"
+      },
+      {
+        "imgPic": "../static/img/follow-02.png"
+      }
+    ],
+    "boxClass": "column2",
+    "evaluateTxt": "大年三十的全家便利店，货架都空空啦。<br>过来买了关东煮，很一般<br>不好吃<br>买了沁心卤蛋......略失望",
+    "score": "",
+    "shopImg":"../static/img/shopImg-02.png",
+    "shopTitle": "名创优品",
+    "shopaddre": "上海 南京东路 家饰餐厨",
+    "shoucan": "288",
+    "look": "214",
+    "usersImg": [
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      }
+    ],
+    "usersNum": "1"}},
+  {"followList": {"userImg": "../static/img/user-01.png",
+    "grade": "../static/img/grade-01.png",
+    "userName": "刺猬是我小名",
+    "time": "30分钟前",
+    "level": "../static/img/level-02.png",
+    "imgBox": [
+      {"imgPic": "../static/img/newAdd1.png"},
+      {"imgPic": "../static/img/follow-01.png"},
+      {"imgPic": "../static/img/newAdd2.png"},
+      {"imgPic": "../static/img/follow-01.png"},
+      {"imgPic": "../static/img/newAdd3.png"},
+      {"imgPic": "../static/img/newAdd4.png"},
+      {"imgPic": "../static/img/follow-01.png"},
+      {"imgPic": "../static/img/newAdd5.png"},
+      {"imgPic": "../static/img/follow-01.png"}
+    ],
+    "boxClass": "column3",
+    "evaluateTxt": "大年三十的全家便利店，货架都空空啦。<br>过来买了关东煮，很一般<br>不好吃<br>买了沁心卤蛋......略失望",
+    "score": "",
+    "shopImg":"../static/img/shopImg-03.png",
+    "shopTitle": "全家便利店",
+    "shopaddre": "杭州 朝晖地区",
+    "shoucan": "33",
+    "look": "17",
+    "usersImg": [
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      },
+      {
+        "imgPic": "../static/img/user-01.png"
+      }
+    ],
+    "usersNum": "1"}}
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+{
+  "finds": [
+    {"tubiao": "../../static/PartThreeImg/nearby_shops.jpg","types": "附近的店"},
+    {"types": "熙地港"},{"types": "214告白上首页"},{"types": "赛格"},
+    {"types": "立丰国际"},{"types": "火锅"},{"types": "子午路张记"},
+    {"types": "灡料理"},{"types": "万达影城"}
+  ],
+  "ranklist": [
+    {"rank": "1","varies":"火锅","clicks": "49307"},{"rank": "2","varies":"日本料理","clicks": "28685"},{"rank": "3","varies":"烤肉","clicks": "23770"},
+    {"rank": "4","varies":"牛扒","clicks": "21736"},{"rank": "5","varies":"海底捞火锅","clicks": "19859"},{"rank": "6","varies":"泡馍","clicks": "31221"}
+  ]
+}

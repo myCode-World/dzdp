@@ -1,0 +1,28 @@
+{
+  "goodslist": [
+    {
+      "imgs": "../../static/PartThreeImg/set_meal1.jpg","types": "美甲","remarks": "单人LEEITAN甲油胶套餐",
+      "nums": "510","price": "88","oldprice": "180","bright": "新客减10"
+    },
+    {
+      "imgs": "../../static/PartThreeImg/set_meal2.jpg","types": "美睫","remarks": "纯日式私人定制睫毛嫁接",
+      "nums": "412","price": "199","oldprice": "599","bright": "新客减24"
+    },
+    {
+      "imgs": "../../static/PartThreeImg/set_meal3.jpg","types": "美睫","remarks": "精致修眉/眉形设计/皮肤管理",
+      "nums": "224","price": "9.9","oldprice": "49","bright": "新客减10"
+    },
+    {
+      "imgs": "../../static/PartThreeImg/set_meal1.jpg","types": "美甲","remarks": "单人LEEITAN甲油胶套餐",
+      "nums": "510","price": "88","oldprice": "180","bright": "新客减10"
+    },
+    {
+      "imgs": "../../static/PartThreeImg/set_meal2.jpg","types": "美睫","remarks": "纯日式私人定制睫毛嫁接",
+      "nums": "412","price": "199","oldprice": "599","bright": "新客减24"
+    },
+    {
+      "imgs": "../../static/PartThreeImg/set_meal3.jpg","types": "美睫","remarks": "精致修眉/眉形设计/皮肤管理",
+      "nums": "224","price": "9.9","oldprice": "49","bright": "新客减10"
+    }
+  ]
+}

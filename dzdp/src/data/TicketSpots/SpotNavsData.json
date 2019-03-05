@@ -1,0 +1,32 @@
+{
+  "navsonelist": [
+    {"imgs": "../../static/PartThreeImg/spot_navs1.jpg", "titles": "名胜古迹"},
+    {"imgs": "../../static/PartThreeImg/spot_navs2.jpg", "titles": "梦回大唐"},
+    {"imgs": "../../static/PartThreeImg/spot_navs3.jpg", "titles": "公园游乐场"},
+    {"imgs": "../../static/PartThreeImg/spot_navs4.jpg", "titles": "动植物园"},
+    {"imgs": "../../static/PartThreeImg/spot_navs5.jpg", "titles": "温泉"},
+    {"imgs": "../../static/PartThreeImg/spot_navs6.jpg", "titles": "滑雪"},
+    {"imgs": "../../static/PartThreeImg/spot_navs7.jpg", "titles": "花灯庙会"},
+    {"imgs": "../../static/PartThreeImg/spot_navs8.jpg", "titles": "大唐芙蓉园"},
+    {"imgs": "../../static/PartThreeImg/spot_navs9.jpg", "titles": "亲子同乐"}
+  ],
+  "navstwolist": [
+    {"imgs": "../../static/PartThreeImg/spot_navs1.jpg", "titles": "名胜古迹"},
+    {"imgs": "../../static/PartThreeImg/spot_navs2.jpg", "titles": "梦回大唐"},
+    {"imgs": "../../static/PartThreeImg/spot_navs3.jpg", "titles": "公园游乐场"},
+    {"imgs": "../../static/PartThreeImg/spot_navs4.jpg", "titles": "动植物园"},
+    {"imgs": "../../static/PartThreeImg/spot_navs5.jpg", "titles": "温泉"},
+    {"imgs": "../../static/PartThreeImg/spot_navs6.jpg", "titles": "滑雪"},
+    {"imgs": "../../static/PartThreeImg/spot_navs7.jpg", "titles": "花灯庙会"},
+    {"imgs": "../../static/PartThreeImg/spot_navs8.jpg", "titles": "大唐芙蓉园"},
+    {"imgs": "../../static/PartThreeImg/spot_navs9.jpg", "titles": "亲子同乐"},
+    {"imgs": "../../static/PartThreeImg/spot_navs11.jpg", "titles": "演出演艺"},
+    {"imgs": "../../static/PartThreeImg/spot_navs12.jpg", "titles": "展馆展览"},
+    {"imgs": "../../static/PartThreeImg/spot_navs13.jpg", "titles": "自然风光"},
+    {"imgs": "../../static/PartThreeImg/spot_navs14.jpg", "titles": "自驾出游"},
+    {"imgs": "../../static/PartThreeImg/spot_navs15.jpg", "titles": "观光街区"},
+    {"imgs": "../../static/PartThreeImg/spot_navs16.jpg", "titles": "陪爸妈"},
+    {"imgs": "../../static/PartThreeImg/spot_navs17.jpg", "titles": "高空景观"},
+    {"imgs": "../../static/PartThreeImg/spot_navs18.jpg", "titles": "影视基地"}
+  ]
+}

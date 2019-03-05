@@ -1,0 +1,88 @@
+{
+  "dinnerData": [
+    {
+      "pic": "../../../static/assets/img/pang.png",
+      "youHui": "2.19非凡海鲜免费试吃",
+      "address": "长乐坊 1.6km"
+    },
+    {
+      "pic":"../../../static/assets/img/huo.png",
+      "youHui": "2.19腩潮鲜牛腩火锅免费试吃",
+      "address": "丈八 2.3km"
+    },
+    {
+      "pic": "../../../static/assets/img/xu.png",
+      "youHui": "2.18徐记海鲜(太奥广场店)免费试吃",
+      "address": "莲湖区 1.8km"
+    },
+    {
+      "pic": "../../../static/assets/img/cheng.png",
+      "youHui": "耐斯街区Dance Tribe (民生百货店)周体验课免...",
+      "address": "南大学城 2.2km"
+    },
+    {
+      "pic": "../../../static/assets/img/meizhuang.png",
+      "youHui": "妍色美妆美甲美睫( Mom  opabk店)套餐2选1免...",
+      "address": "长乐坊 3.4km"
+    }
+  ],
+  "detailsData": [
+    {
+      "titleData": [
+        { "title": "全程0元抢", "xuan": "VIP更容易中奖" }
+      ],
+    "uls": [
+      {
+        "pic": "../../../static/assets/img/pang.png",
+        "pic2": "../../../static/assets/img/juhui.png",
+        "you": "2.19非凡海鲜免费试吃",
+        "address": "长乐坊"
+      },
+      {
+        "pic": "../../../static/assets/img/cheng.png",
+        "pic2": "../../../static/assets/img/juhui.png",
+        "you": "耐斯街区Dance Tribe (民生百货店)周体验课免...",
+        "address": "南大学城"
+      },
+      {
+
+        "pic": "../../../static/assets/img/xu.png",
+        "you": "2.18徐记海鲜(太奥广场店)免费试吃",
+        "address": "莲湖区"
+      },
+      {
+
+        "pic":"../../../static/assets/img/huo.png",
+        "you": "2.19腩潮鲜牛腩火锅免费试吃",
+        "address": "丈八"
+        }
+      ]
+    }
+  ],
+  "vipData": [
+    {
+      "pic": "../../../static/assets/img/pang.png",
+      "pic2": "../../../static/assets/img/juhui.png",
+      "you": "2.19非凡海鲜免费试吃",
+      "address": "长乐坊"
+    },
+    {
+      "pic": "../../../static/assets/img/cheng.png",
+      "pic2": "../../../static/assets/img/juhui.png",
+      "you": "耐斯街区Dance Tribe (民生百货店)周体验课免...",
+      "address": "南大学城"
+    },
+    {
+
+      "pic": "../../../static/assets/img/xu.png",
+      "you": "2.18徐记海鲜(太奥广场店)免费试吃",
+      "address": "莲湖区"
+    },
+    {
+
+      "pic":"../../../static/assets/img/huo.png",
+      "you": "2.19腩潮鲜牛腩火锅免费试吃",
+      "address": "丈八"
+    }
+  ]
+}

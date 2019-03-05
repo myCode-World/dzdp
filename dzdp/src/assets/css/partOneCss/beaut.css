@@ -1,0 +1,267 @@
+@charset "utf-8";
+
+.beaut-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: .7rem;
+    width: 100%;
+    background: #ffffff;
+}
+.img-box,.left-box{
+  display: flex;
+  align-items: center;
+  width: 15%;
+  padding: 0 .13rem;
+}
+.img-box .map{
+  height: .35rem;
+  margin-top: .12rem;
+  margin-right: .1rem;
+}
+.beaut-header img {
+    display: block;
+    height: .23rem;
+}
+
+.beaut-header p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: .3rem;
+    border: 2px solid #ff6735;
+    border-radius: 10px;
+}
+
+.beaut-header p span {
+  width: .8rem;
+    font-size: .13rem;
+    text-align: center;
+    line-height: .32rem;
+}
+
+.beaut-header-span-1 {
+    background: #ff6735;
+    color: #ffffff;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.beaut-header-span-2{
+  color:#ff5319;
+}
+.bar {
+    height: .6rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #efefef;
+    background: #ffffff;
+}
+
+.bar p {
+    height: .6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar p span {
+    font-size: .18rem;
+    margin-right: 5px;
+}
+
+.bar p .span-beaut {
+    color: #fc5700;
+}
+
+.bar p img {
+    display: block;
+    width: .12rem;
+}
+
+.bar-li-one {
+    width: 100%;
+    background: #ffffff;
+    display: none;
+}
+
+.bar-li-one .bar-div-1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.bar-li-one p {
+    height: .6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bar-li-one p span {
+    display: block;
+    font-size: .18rem;
+    margin-right: 5px;
+}
+
+.bar-li-one p:nth-child(1) span {
+    color: #ff672d;
+}
+
+.bar-li-one p img {
+    display: block;
+    width: .12rem;
+}
+
+.bar-li-one p:nth-child(1) img {
+    transform: rotateZ(180deg);
+}
+
+.bar-div-2 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.none {
+    display: none;
+}
+
+.bar-div-2 .lie-one {
+    width: 40%;
+    height: 400px;
+    overflow: auto;
+  background-color: white;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.bar-div-2 .lie-one .fuji {
+    border-left: 2px solid #ff672d;
+    color: #ff672d;
+    background: #ebebeb;
+}
+
+.bar-div-2 .lie-one li,
+.lie-two li {
+    width: 100%;
+    height: 50px;
+    font-size: .2rem;
+    line-height: 50px;
+    text-indent: 30px;
+}
+
+.bar-div-2 .lie-two {
+    flex: 1;
+    height: 400px;
+    overflow: auto;
+    background: #ebebeb;
+}
+
+.sction-ul {
+    width: 100%;
+    background: #ebebeb;
+}
+
+.beaut-sction-1 {
+    height: .9rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+    padding: 0 5px;
+    margin: .05rem 0;
+}
+
+.beaut-sction-1 .beaut-sction-span-1 {
+    font-size: .2rem;
+    display: block;
+    color: #ff3184;
+}
+
+.beaut-sction-1 .beaut-sction-span-2 {
+    display: block;
+    font-size: .15rem;
+    color: #676767;
+}
+
+.beaut-sction-1 img {
+    display: block;
+    height: .6rem;
+}
+
+.beaut-sction-2 {
+    width: 100%;
+    height: .6rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background: #ffffff;
+}
+
+.beaut-sction-2 img {
+    display: block;
+    height: .3rem;
+    margin-left: 5px;
+}
+
+.car-one {
+    width: 100%;
+    margin-top: 3px;
+    background: #ebebeb;
+}
+
+.car-one li {
+    display: flex;
+    background: #ffffff;
+    margin-bottom: 8px;
+  padding: .1rem 0;
+}
+
+.car-one li .car-one-img-1 {
+    width: 1rem;
+    height: 1rem;
+    margin: 0 10px;
+}
+.car-one li div .car-one-img-2 {
+    height: .2rem;
+}
+.car-one li div h3 {
+    font-size: .2rem;
+    margin-bottom: 10px;
+}
+.car-one li div p {
+    display: flex;
+    justify-content: flex-start;
+    font-size: .18rem;
+    color: #838383;
+    margin: 10px 0;
+}
+
+.car-one li div p .tc-p-two {
+    margin-right: .9rem;
+}
+
+.car-one li div .tc-p-one {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-top: 1px solid #efefef;
+    padding-top: 10px;
+}
+
+.car-one li div .tc-p-one .car-one-img-3 {
+    display: block;
+    width: .21rem;
+    height: .21rem;
+    margin-right: 10px;
+}
+
+.car-one li div .tc-p-one .car-span {
+    font-size: .1rem;
+    color: #999999;
+}

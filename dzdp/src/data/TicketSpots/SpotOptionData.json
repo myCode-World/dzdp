@@ -1,0 +1,6 @@
+{
+  "opts": [
+    {"titles": "限时抢购","remarks": "低价秒杀","imgs":"../../static/PartThreeImg/spot_opt1.jpg"},
+    {"titles": "必玩榜","remarks": "权威游玩指南","imgs":"../../static/PartThreeImg/spot_opt2.jpg"}
+  ]
+}

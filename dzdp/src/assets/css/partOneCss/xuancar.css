@@ -1,0 +1,132 @@
+@charset "utf-8";
+            .mycar-header {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background: #ffffff;
+                padding: 10px 0;
+                position: fixed;
+                top: 0;
+                width: 100%;
+                border-bottom: 1px solid #ebebeb;
+            }
+            
+            .mycar-header img {
+                display: block;
+                width: .15rem;
+                margin-left: 10px;
+            }
+            
+            .mycar-header span {
+                display: block;
+
+                font-size: .17rem;
+            }
+            .mycar-header .xuan{
+              width: 55%;
+            }
+            .sction {
+                margin-top: .48rem;
+                top: .4rem;
+            }
+            
+            .sction h3 {
+                width: .4rem;
+                background: transparent;
+                position: fixed;
+                top: 1.9rem;
+                right: 4px;
+            }
+            
+            .sction h3 a {
+                display: block;
+                outline: none;
+                text-decoration: none;
+                font-size: .1rem;
+                color: black;
+                width: 100%;
+                text-align: center;
+                margin-top: 2px;
+            }
+            
+            .sction .sction-li-1 {
+                display: flex;
+                width: 100%;
+                justify-content: center;
+                align-items: center;
+                padding: 10px 0;
+                background: #ffffff;
+            }
+            
+            .sction .sction-li-1 p {
+                width: 90%;
+                height: .28rem;
+                background: #ebebeb url('../../../../static/imgs/car-header-susuo.jpg')no-repeat 108px 4px;
+                background-size: .15rem;
+                border-radius: 40px;
+                font-size: .13rem;
+                color: #999999;
+                text-indent: 140px;
+                line-height: .28rem;
+            }
+            
+            #A,
+            #B,
+            #C,
+            #D,
+            #E,
+            #F,
+            #G,
+            #H,
+            #I,
+            #G,
+            #K,
+            #L,
+            #M,
+            #N,
+            #O,
+            #Q,
+            #R,
+            #S,
+            #T,
+            #W,
+            #X,
+            #Y,
+            #Z {
+                background: #ebebeb;
+            }
+            
+            .div-li-1 {
+                height: .24rem;
+                font-size: .13rem;
+                text-indent: 10px;
+                line-height: .24rem;
+
+                color: #737176;
+            }
+            
+            .div-li-2 {
+                display: flex;
+                justify-content: flex-start;
+                align-items: center;
+                height: .6rem;
+                background: #ffffff;
+
+            }
+            
+            .div-li-2 img {
+                display: block;
+                width: .4rem;
+                margin: 0 10px;
+                margin-right: 20px;
+            }
+            
+            .div-li-2 span {
+                display: block;
+                flex: 1;
+                height: .6rem;
+                font-size: .14rem;
+              line-height: .6rem;
+                font-weight: 600;
+              border-bottom: 1px solid #ebebeb;
+            }

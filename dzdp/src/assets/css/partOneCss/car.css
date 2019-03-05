@@ -1,0 +1,201 @@
+@charset "utf-8";
+.car-header {
+    width: 100%;
+    background: #ffffff;
+    height: .7rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: -10px 0 1px 2px #ebebeb;
+    position: fixed;
+    top: 0;
+    box-sizing: border-box;
+}
+
+.car-header img {
+    display: block;
+    height: .21rem;
+}
+
+.car-header p {
+    font-size: .15rem;
+    color: #656565;
+    height: .3rem;
+    width: 75%;
+    background: #ebebeb url('../../../../static/imgs/car-header-susuo.jpg')no-repeat 45px;
+    background-size: .17rem;
+    border-radius: 40px;
+    text-indent: 75px;
+    line-height: .3rem;
+}
+
+.sction {
+    width: 100%;
+    margin-top: .8rem;
+    background: #ebebeb;
+}
+
+.sction ul {
+    list-style: none;
+    width: 100%;
+    padding-bottom: 15px;
+    background: #ffffff;
+}
+
+.sction .car-sction-li-one {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background: #ffffff;
+}
+
+.sction .car-sction-li-one img {
+    display: block;
+    width: .45rem;
+}
+
+.sction li {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: .7rem;
+    background: #ffffff;
+}
+
+.sction li img {
+    display: block;
+    width: .6rem;
+}
+
+.sction .sction-ul-one {
+    margin-top: 10px;
+}
+
+.sction .sction-ul-one .sction-ul-one-1 {
+    display: flex;
+    justify-content: flex-start;
+    height: .36rem;
+}
+
+.sction .sction-ul-one .sction-ul-one-1 img {
+    display: block;
+    width: .82rem;
+}
+
+.sction .sction-ul-one .sction-ul-one-2 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.sction .sction-ul-one .sction-ul-one-2 img {
+    display: block;
+    width: .45rem;
+    margin: 0 15px;
+}
+
+.sction .sction-ul-two {
+    margin-top: 10px;
+    padding-bottom: 0px;
+}
+
+.sction .sction-ul-two .sction-ul-two-1 {
+    display: -webkit-box;
+    height: .4rem;
+    white-space: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.sction .sction-ul-two .sction-ul-two-1 span {
+    display: block;
+    font-size: .14rem;
+    color: #1d1d1d;
+    height: .4rem;
+    width: .72rem;
+    padding:0 .2rem;
+    line-height: .4rem;
+    text-align: center;
+}
+
+.sction .sction-ul-two .sction-ul-two-1 .car-span-1 {
+    color: #f1aa6c;
+    border-bottom: 2px solid #f1aa6c;
+}
+
+.car-one {
+    width: 100%;
+    margin-top: 3px;
+    background: #ebebeb;
+}
+
+.car-one li {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: #ffffff;
+    margin-bottom: 8px;
+  padding-top: .1rem;
+}
+
+.car-one li .car-one-img-1 {
+    width: 1.1rem;
+    display: block;
+    margin: 0 10px;
+}
+
+.car-one li .car-div-1 {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+.car-one li .car-div-1 div {
+    width: 100%;
+
+}
+
+.car-one li div .car-one-img-2 {
+    display: block;
+    height: .2rem;
+}
+
+.car-one li div h3 {
+    font-size: .2rem;
+    margin-bottom: 10px;
+}
+
+.car-one li div p {
+    display: flex;
+    justify-content: flex-start;
+    font-size: .18rem;
+    color: #838383;
+    margin: 10px 0;
+}
+
+.car-one li div p .tc-p-two {
+    margin-right: .9rem;
+}
+
+.car-one li div .tc-p-one {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-top: 1px solid #efefef;
+    padding-top: 10px;
+}
+
+.car-one li div .tc-p-one .car-one-img-3 {
+    display: block;
+    width: .21rem;
+    height: .21rem;
+    margin-right: 10px;
+}
+
+.car-one li div .tc-p-one .car-span {
+    font-size: .1rem;
+    color: #999999;
+}

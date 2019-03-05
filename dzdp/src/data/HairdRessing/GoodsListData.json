@@ -1,0 +1,7 @@
+{
+  "goodslists":[
+    {"remarkImg":"../../static/PartThreeImg/titles_pict1.jpg","shopsname":"施华蔻美发连锁店","tuanImg":"../../static/PartThreeImg/tuan_ding_pic.jpg","typework":"美发","distance":"270m","laba":"../../static/PartThreeImg/laba.jpg","active":"39元剪发高性价比套餐限时抢购"},
+    {"remarkImg":"../../static/PartThreeImg/titles_pict2.jpg","shopsname":"百年吴越专业美容","tuanImg":"../../static/PartThreeImg/tuan_ding_pic.jpg","typework":"祛痘","distance":"3.6km","laba":"../../static/PartThreeImg/laba.jpg","active":"17元高性价比祛痘套餐限时抢购"},
+    {"remarkImg":"../../static/PartThreeImg/titles_pict3.jpg","shopsname":"壹京尚美容造型会所","tuanImg":"../../static/PartThreeImg/tuan_ding_pic.jpg","typework":"美发","distance":"170m","laba":"../../static/PartThreeImg/laba.jpg","active":"38元洗吹高性价比套餐限时抢购"}
+  ]
+}

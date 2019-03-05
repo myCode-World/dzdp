@@ -1,0 +1,7 @@
+{
+  "guidelist": [
+    {"cardnames":"天天免费","cardremark": "抢森贝尔礼盒","rushprice": "0元", "imgs": "../../static/PartThreeImg/par_guide1.jpg", "bgcolor": "background-color:#fcf2fa", "imgwidth_height": "width:.8rem;height:.62rem"},
+    {"cardnames":"亲子畅玩卡","cardremark": "玩一天就赚啦","rushprice": "", "imgs": "../../static/PartThreeImg/par_guide2.jpg","bgcolor": "background-color:#fcf2fa", "imgwidth_height": "width:.61rem;height:.5rem"},
+    {"cardnames":"哪里值得玩","cardremark": "人气乐园大搜","rushprice": "", "imgs": "../../static/PartThreeImg/par_guide3.jpg","bgcolor": "background-color:#f1f5fe", "imgwidth_height": "width:.7rem;height:.5rem"}
+ ]
+}
